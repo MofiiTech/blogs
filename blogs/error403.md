@@ -50,6 +50,8 @@ chmod 755 -R directory
 chmod 755 file
 ```
 
+After changing the permission, all the directories can be listed and all the staic files are viewable. :(
+
 ## Related Links
 
 * 403 Error: https://support.hostgator.com/articles/specialized-help/403-forbidden-or-no-permission-to-access/

@@ -7,16 +7,7 @@ Topic: Nginx
 
 ## Steps
 
-1. Modify **/etc/apache2/ports.conf**
+1. Modify **/etc/apache2/ports.conf**:
+   ```Listen 80``` to ```Listen 8000```
 
-  ```
-  Listen 80
-  ```
-
-  to
-
-  ```
-  Listen 8000
-  ```
-
-2. Modify 
+2. Modify **/etc/apache2/sites-enabled/twitter.conf**: ```<VirtualHost *:80>```

@@ -12,4 +12,6 @@ Topic: Nginx
 
    ```Listen 80``` to ```Listen 8000```
 
-2. Modify **/etc/apache2/sites-enabled/twitter.conf**: ```<VirtualHost *:80>```
+2. Modify **/etc/apache2/sites-enabled/twitter.conf**:
+
+   ```<VirtualHost *:80>```

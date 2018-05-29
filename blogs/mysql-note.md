@@ -43,7 +43,7 @@
   tables = cs.fetchall()
   ```
 
-## Database **mysql**
+## Database mysql
 
 * Create a new user: (for non-sudo login)
 

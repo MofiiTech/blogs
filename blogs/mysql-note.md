@@ -29,6 +29,20 @@
   mysql> SHOW INDEX FROM tablename      # Show details of indexes on the table
   ```
 
+## Using MySQL with Python3
+
+* Basics: (with MySQLdb)
+
+  ```
+  import MySQLdb
+
+  db = MySQLdb.connect(host="localhost", user="username", passwd="password")
+  cs = db.cursor()
+  cs.execute("USE database")
+  cs.execute("SHOW TABLES")    # return an integer
+  tables = cs.fetchall()
+  ```
+
 ## Database `mysql`
 
 * Create a new user: (for non-sudo login)

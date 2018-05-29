@@ -29,6 +29,8 @@
   mysql> SHOW INDEX FROM tablename      # Show details of indexes on the table
   ```
 
+* **SELECT** command:
+
 ## Using MySQL with Python3
 
 * Basics: (with MySQLdb)

@@ -1,4 +1,10 @@
-# myBlogs
+# My Blogs
+
+## About
+
+This is a temporary site for my blog page on [mofii.net](http://mofii.net).
+
+Update: I don't want to spend too much time on all the front-end work and Flask management. So I am going to host the blogs on github.io for now.
 
 ## Ubuntu Desktop/Server
 

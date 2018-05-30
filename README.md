@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# myBlogs
 
-You can use the [editor on GitHub](https://github.com/MofiiTech/blogs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Ubuntu Desktop/Server
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Install MySQL Server on Ubuntu](blogs/mysql-install.md)
+* [MySQL Commands](blogs/mysql-note.md)
+* [Enable SSH Access on Ubuntu Desktop](blogs/ubuntu-ssh.md)
 
-### Markdown
+## Web Hosting
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [403 Forbidden Error on Apache2](blogs/error403.md)
+* [Use Nginx as a Reverse Proxy](blogs/nginx.md)
+* [Use Twitter Widgets in a Chinese Blog](blogs/iframe.md)
 
-```markdown
-Syntax highlighted code block
+## Else
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MofiiTech/blogs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Save Credentials for Github](blogs/git.md)

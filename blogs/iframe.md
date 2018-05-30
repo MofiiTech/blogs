@@ -1,4 +1,11 @@
-# Using Twitter Widgets in a Chinese Blog
+---
+Date: May 23, 2018
+Topic: Nginx, iFrame
+---
+
+
+
+# Use Twitter Widgets in a Chinese Blog
 
 > I've been working on a personal blog using flask. Since front-end designs are not so handy to me, I chose [embeded tweets](https://developer.twitter.com/en/docs/twitter-for-websites/overview) to display timeline on my blog. However, because of the GFW, Twitter is not available in Mainland China, as well as Twitter embeded timeline. The twitter widgets (powered by iframe) would not display when accesing my webiste from China. Since I am hosting my website on a VPS, I tried a few ways to make this beautiful timeline accessible in China.
 

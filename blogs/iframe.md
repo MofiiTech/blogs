@@ -11,7 +11,7 @@ Topic: Nginx, iFrame
 
 ## Nginx Reverse Proxy
 
-This is the first thing in my mind because many people have created mirror websites of Google in China as a substitute of Baidu. The websites are stable and respond fast. I think I may use Nginx to create a mirror webiste of my personal.
+This is the first thing in my mind because many people have created mirror websites of Google in China as a substitute of Baidu. The websites are stable and respond fast. I think I may use Nginx to create a mirror webiste for personal use.
 
 Here are some reference blogs regarding this problem:
 

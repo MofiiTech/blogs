@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# My Blogs
 
-You can use the [editor on GitHub](https://github.com/MofiiTech/blogs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a temporary site for my blog page on [mofii.net](http://mofii.net).
 
-### Markdown
+Update: I don't want to spend too much time on all the front-end work and Flask management. So I am going to host the blogs on github.io for now.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> This is a collection of interesting articles saved for future blogs. [here](saved.md)
 
-```markdown
-Syntax highlighted code block
+## Ubuntu Desktop/Server
 
-# Header 1
-## Header 2
-### Header 3
+* [Install MySQL Server on Ubuntu](blogs/mysql-install.md)
+* [MySQL Commands](blogs/mysql-note.md)
+* [Enable SSH Access on Ubuntu Desktop](blogs/ubuntu-ssh.md)
 
-- Bulleted
-- List
+## Web Hosting
 
-1. Numbered
-2. List
+* [403 Forbidden Error on Apache2](blogs/error403.md)
+* [Use Nginx as a Reverse Proxy](blogs/nginx.md)
+* [Use Twitter Widgets in a Chinese Blog](blogs/iframe.md)
 
-**Bold** and _Italic_ and `Code` text
+## Else
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MofiiTech/blogs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Save Credentials for Github](blogs/git.md)

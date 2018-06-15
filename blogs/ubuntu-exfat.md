@@ -7,6 +7,6 @@
 ## Solutions
 
 ```bash
-sudo apt-get update
-sudo apt-get install exfat-utils
+$ sudo apt-get update
+$ sudo apt-get install exfat-utils
 ```

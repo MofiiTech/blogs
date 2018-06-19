@@ -29,6 +29,30 @@
   mysql> SHOW INDEX FROM tablename      # Show details of indexes on the table
   ```
 
+## Command: CREATE
+
+* Create a table:
+
+  ```
+  mysql> CREATE DATABASE dbname;
+  ```
+
+## Command: UPDATE
+
+* Modify existing records:
+
+  ```
+  mysql> UPDATE table_name SET column1 = value1, column2 = value2 WHERE condition;
+  ```
+
+## Command: ALTER
+
+* To modify a column:
+
+  ```
+  mysql> ALTER TABLE table_name CHANGE i j INT;
+  ```
+
 ## Command: SELECT
 
 * `SELECT DISTINCT`: only different values are listed

@@ -9,3 +9,4 @@ P.S. Most of which are collected in my Instapaper. Contact me in case any link f
 ## Machine Learning
 
 * [Wikipedia - Goldilocks Principle](https://en.wikipedia.org/wiki/Goldilocks_principle)
+* [Ubuntu Background Process](https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/index.html)
